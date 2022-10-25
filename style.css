@@ -128,3 +128,8 @@ i {
 .github {
     grid-row: 7/8;
 }
+
+a {
+    text-decoration: none;
+    color: #ebebeb;
+}
