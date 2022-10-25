@@ -1,0 +1,39 @@
+main {
+    width: 816px;
+    height: 1056px;
+    background: #b8b8b8; 
+    display: grid;
+    grid-template-columns: 30% 70%;
+    grid-template-rows: 30% 70%;
+    grid-gap: 0px;
+}
+
+header {
+    
+    
+}
+
+.img-h2 {
+    padding: 25px 0px 0px 25px;
+}
+
+#me {
+    grid-column-start: 1;
+    grid-row-start: 1;
+}
+
+h1 {
+    grid-column-start: 2;
+    grid-row-start: 1;
+}
+
+.name {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 70px;
+    letter-spacing: 4px;
+}
+
+.title {
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 4px;
+}
